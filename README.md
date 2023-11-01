@@ -5,16 +5,6 @@
 <div align="center">
   <img  src="https://cdn.discordapp.com/attachments/1144503813252845588/1169093052216914020/Untitled.png?ex=655425c0&is=6541b0c0&hm=f05b35b4f231fdcd53c3f0748799d322585f9c9319ba9877fed573edd091dc3f&">
   <br>
-  <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Token-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Token-Grabber?color=6d00c1&logoColor=6d00c1">
-  <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
-</div>
 
 ## Features
 
